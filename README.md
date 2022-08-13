@@ -1,5 +1,6 @@
 # discordVCRAID
 I created my first discord raid tool WITH VOICE SUPPORT
+It is created only for jokes and study purposes
 
 ## Commands
 `help` to open commands description
